@@ -1,0 +1,2 @@
+daftar perintah git
+1. git init : membuat data base di local
